@@ -1,0 +1,2 @@
+opam-version: "2.0"
+upstream: "https+git://github.com/kant2002/ocaml-loongarch-repository"

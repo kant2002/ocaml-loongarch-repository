@@ -1,0 +1,3 @@
+#!/bin/sh -ex
+
+ls packages/ocaml-variants | parallel opam switch create {} {} --repositories=default,loongarch
