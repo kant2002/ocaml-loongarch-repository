@@ -59,7 +59,7 @@ build: [
 ]
 install: [make "install"]
 url {
-  src: "https://github.com/ocaml/ocaml/archive/trunk.tar.gz"
+  src: "hhttps://github.com/junchao-loongson/ocaml-tmp/archive/trunk.tar.gz"
 }
 post-messages: [
   "A failure in the middle of the build may be caused by build parallelism
