@@ -59,7 +59,7 @@ build: [
 ]
 install: [make "install"]
 url {
-  src: "hhttps://github.com/junchao-loongson/ocaml-tmp/archive/trunk.tar.gz"
+  src: "https://github.com/junchao-loongson/ocaml-tmp/archive/trunk.tar.gz"
 }
 post-messages: [
 ]
